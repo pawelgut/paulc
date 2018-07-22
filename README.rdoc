@@ -1,0 +1,3 @@
+== README
+
+Loads all the ruby files in the current directory, then starts irb with bundler and requires all the gems.
